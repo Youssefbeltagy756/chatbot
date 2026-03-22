@@ -4,3 +4,4 @@ rank_bm25
 sentence-transformers
 requests
 bs4
+fastapi
